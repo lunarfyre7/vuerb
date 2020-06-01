@@ -1,6 +1,8 @@
 require "vuerb/version"
 
-module Vuerb
-  class Error < StandardError; end
-  # Your code goes here...
+if RUBY_ENGINE == 'opal'
+  require 'vuerb/core.rb'
+else
+  require 'opal'
+  Opal.append_path File.expand_path('..', __FILE__).untaint
 end

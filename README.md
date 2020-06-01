@@ -1,8 +1,8 @@
-# Vuerb
+# Vue.rb
 
-!!THIS IS AN ALPHA LEVEL WIP PROJECT!!
+!!THIS IS AN ALPHA LEVEL WIP PROJECT AVERT YOUR EYES LEST YOU BE BLINDED!!
 
-Vuerb, Vue + Opal! 
+Vue.rb, Vue + Opal! 
 Code Vue front ends in ruby.
 
 ## Installation

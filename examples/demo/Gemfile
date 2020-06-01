@@ -1,0 +1,5 @@
+source "https://rubygems.org"
+
+gem 'opal', github: 'janbiedermann/opal', branch: 'es6_modules'
+gem 'opal-webpack-loader', '~> 0.9.6'
+gem 'vuerb', path: '../../'
